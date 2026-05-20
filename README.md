@@ -1,7 +1,9 @@
 # Evaluación Parcial N°2 – Near Earth Objects (NEO)
 
 **Curso**: Programación para la Ciencia de Datos (SCY1101)
+
 **Evaluación**: Parcial N°2
+
 **Dataset**: NASA Near Earth Objects (NEO) — `neo.csv`
 
 ---
